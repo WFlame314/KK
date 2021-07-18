@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/styles">
+        <file>buty.qss</file>
+        <file>chatstyle.qss</file>
+        <file>searchstyle.qss</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>bg2.jpg</file>
+    </qresource>
+</RCC>
