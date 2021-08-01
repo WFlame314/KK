@@ -1,2 +1,4 @@
 # KK
 采用websocket与服务器通信的即时聊天软件。
+
+由于更改后文件传输功能失效，debug模式时需要手动将files文件夹复制到build目录下，release模式时需要手动将files文件夹复制到build、release目录下。
